@@ -1,0 +1,3 @@
+# UI COMPONENT INVENTORY
+
+<!-- TODO: docs/product/UI_COMPONENT_INVENTORY.md -->
