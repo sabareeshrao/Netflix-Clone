@@ -1,0 +1,1 @@
+-- TODO: Implement V003  create devices (backend/src/main/resources/db/migration/V003__create_devices.sql) in its build phase.
