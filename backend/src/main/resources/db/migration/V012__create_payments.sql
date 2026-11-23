@@ -1,0 +1,1 @@
+-- TODO: backend/src/main/resources/db/migration/V012__create_payments.sql
