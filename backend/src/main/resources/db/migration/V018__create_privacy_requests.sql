@@ -1,0 +1,1 @@
+-- TODO: backend/src/main/resources/db/migration/V018__create_privacy_requests.sql
