@@ -1,0 +1,1 @@
+-- TODO: backend/src/main/resources/db/migration/V015__create_content_rights.sql
