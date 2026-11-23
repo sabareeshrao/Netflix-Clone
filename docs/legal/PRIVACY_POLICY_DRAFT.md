@@ -1,0 +1,3 @@
+# PRIVACY POLICY DRAFT
+
+<!-- TODO: docs/legal/PRIVACY_POLICY_DRAFT.md -->
