@@ -1,0 +1,1 @@
+-- TODO: backend/src/main/resources/db/migration/V011__create_subscriptions.sql
