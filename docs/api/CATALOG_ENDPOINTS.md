@@ -1,0 +1,3 @@
+# CATALOG ENDPOINTS
+
+<!-- TODO: docs/api/CATALOG_ENDPOINTS.md -->
