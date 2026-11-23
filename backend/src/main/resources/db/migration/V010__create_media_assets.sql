@@ -1,0 +1,1 @@
+-- TODO: backend/src/main/resources/db/migration/V010__create_media_assets.sql
