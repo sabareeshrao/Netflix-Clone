@@ -1,0 +1,1 @@
+-- TODO: backend/src/main/resources/db/migration/V019__create_search_indexes.sql
