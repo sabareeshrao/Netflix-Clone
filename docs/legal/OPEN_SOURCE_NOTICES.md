@@ -1,0 +1,3 @@
+# OPEN SOURCE NOTICES
+
+<!-- TODO: docs/legal/OPEN_SOURCE_NOTICES.md -->
