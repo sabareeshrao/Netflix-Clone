@@ -1,0 +1,1 @@
+-- TODO: backend/src/main/resources/db/migration/V021__create_download_licenses.sql
