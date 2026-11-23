@@ -1,0 +1,1 @@
+-- TODO: backend/src/main/resources/db/migration/V020__create_recommendation_events.sql
