@@ -1,0 +1,4 @@
+package com.streamclone.catalog.dto;
+
+// TODO: Implement TitleDetailsResponse.
+// File: backend/src/main/java/com/streamclone/catalog/dto/TitleDetailsResponse.java
