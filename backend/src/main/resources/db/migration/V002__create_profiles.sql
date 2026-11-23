@@ -1,0 +1,1 @@
+-- TODO: Implement V002  create profiles (backend/src/main/resources/db/migration/V002__create_profiles.sql) in its build phase.
